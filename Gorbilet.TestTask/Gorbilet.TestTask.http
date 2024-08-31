@@ -1,6 +1,6 @@
 @Gorbilet.TestTask_HostAddress = http://localhost:5268
 
-GET {{Gorbilet.TestTask_HostAddress}}/weatherforecast/
+GET {{Gorbilet.TestTask_HostAddress}}/post/
 Accept: application/json
 
 ###
