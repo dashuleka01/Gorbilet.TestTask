@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gorbilet.TestTask", "Gorbilet.TestTask\Gorbilet.TestTask.csproj", "{EB1F7571-C67F-4C9D-9ABF-157BF70C151E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB1F7571-C67F-4C9D-9ABF-157BF70C151E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1F7571-C67F-4C9D-9ABF-157BF70C151E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1F7571-C67F-4C9D-9ABF-157BF70C151E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1F7571-C67F-4C9D-9ABF-157BF70C151E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E66C937-521E-4790-B21F-6B0A7002E6EF}
+	EndGlobalSection
+EndGlobal
